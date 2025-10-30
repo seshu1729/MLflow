@@ -6,7 +6,7 @@ Youtube link: https://www.youtube.com/watch?v=6ngxBkx05Fs
 pip install mlflow
 mlflow ui
 ```
-================
+================\
 Install required libraries.
 
 ```
